@@ -6,11 +6,11 @@ In Google Chrome, open dev tools network tab and enter this URL into the browser
 
 Answer the following questions:
 
-- What's the status code the server sent back?
-- What HTTP method did the browser use to make the request?
-- What is the request path?
-- What is the first line of the response body?
-- What is the value of the response header called "Content-Type" ?
+- What's the status code the server sent back?---200 OK
+- What HTTP method did the browser use to make the request?-Get
+- What is the request path?-
+- What is the first line of the response body?--array opening bracket
+- What is the value of the response header called "Content-Type" ?--application/json
 - What is the value of the request header called "User-Agent"
 
 ## Submission
